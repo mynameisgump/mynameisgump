@@ -4,9 +4,9 @@
 - Interested in Web3D and game development
 - Currently making Slab3D, stay tuned 👀
 
-![](https://img.shields.io/badge/day%20📅-22-blue)
-![](https://img.shields.io/badge/stars%20⭐-34-yellow)
-![](https://img.shields.io/badge/days%20completed-17-red)
+![](https://img.shields.io/badge/day%20📅-6-blue)
+![](https://img.shields.io/badge/stars%20⭐-12-yellow)
+![](https://img.shields.io/badge/days%20completed-6-red)
 
 <!--
 **mynameisgump/mynameisgump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
