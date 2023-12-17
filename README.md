@@ -6,9 +6,9 @@
 
 ### Advent of Code:
 
-![](https://img.shields.io/badge/day%20📅-16-blue)
-![](https://img.shields.io/badge/stars%20⭐-24-yellow)
-![](https://img.shields.io/badge/days%20completed-12-red)
+![](https://img.shields.io/badge/day%20📅-17-blue)
+![](https://img.shields.io/badge/stars%20⭐-29-yellow)
+![](https://img.shields.io/badge/days%20completed-14-red)
 
 <!--
 **mynameisgump/mynameisgump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
