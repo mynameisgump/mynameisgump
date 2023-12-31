@@ -4,11 +4,6 @@
 - Interested in Web3D and game development
 - Currently making Slab3D, stay tuned 👀
 
-### Advent of Code:
-
-![](https://img.shields.io/badge/day%20📅-25-blue)
-![](https://img.shields.io/badge/stars%20⭐-32-yellow)
-![](https://img.shields.io/badge/days%20completed-16-red)
 
 <!--
 **mynameisgump/mynameisgump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
